@@ -6,7 +6,7 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Preparation](#data-preparation)
-- [Exploratory Data Analysis][#exploratory-data-analysis]
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
 - [Limitations](#limitations)
