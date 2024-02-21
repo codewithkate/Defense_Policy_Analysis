@@ -13,7 +13,7 @@
 - [References](#references)
 
 ### Project Overview
-
+---
 This data analysis project aims to provide insights into excess defense article transfers over the past decade. By analyzing various aspects of EDA transfers, we can identify trends in military sales and grant transfers, make better decisions about EDA eligible countries, and gain a deeper understanding of how small arms and light weapons impact countries.
 
 ### Data Sources
