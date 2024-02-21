@@ -17,17 +17,17 @@
 This data analysis project aims to provide insights into excess defense article transfers over the past decade. By analyzing various aspects of EDA transfers, we can identify trends in military sales and grant transfers, make better decisions about EDA eligible countries, and gain a deeper understanding of how small arms and light weapons impact countries.
 
 ### Data Sources
-
+---
 Transfer Data: The primary dataset used for this analysis is the "eda_data.csv" file, containing detailed information about each transfer request made by a U.S. partner nation between 2010 and 2020. [Original dataset](https://www.dsca.mil/programs/excess-defense-articles-eda)
 
 ### Tools
-
+---
 - Excel - Data Cleaning
 - Python - Data Analysis
 - Tableau - Creating dashboard
 
 ### Data Preparation
-
+---
 In the initial data preparation phase, I performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing and null values.
@@ -36,6 +36,7 @@ In the initial data preparation phase, I performed the following tasks:
 5. Pivoting and joining tables.
 
 ### Exploratory Data Analysis
+---
 EDA involved exploring the sales and transfer data to answer key questions, such as:
 
 **EDA Transfer Costs & Trends**
@@ -58,29 +59,29 @@ EDA involved exploring the sales and transfer data to answer key questions, such
 *AI-assisted questions based on human-generated notes about cited sources.
 
 ### Data Analysis
-
+---
 [View the final visualization](https://public.tableau.com/app/discover)
 
 ### Findings
-
+---
 The analysis results are summarized as follows:
 1. Description of costs and trends
 2. Description the EDA process
 3. Description of risk and impact
 
 ### Recommendations
-
+---
 Based on the analysis, I recommend the following actions:
 - List item
 - List item
 - List item
 
 ### Limitations
-
+---
 TBD
 
 ### References
-
+---
 - The Defense Security Operation Agency's [Excess Defense Article Database Tool](https://www.dsca.mil/programs/excess-defense-articles-eda) (Accessed on Feb 16, 2024)
 - The U.S. Navy's [Excess Defense Articles page](https://www.secnav.navy.mil/nipo/Pages/About/Security%20Assitance/Excess-Defense-Articles.aspx#:~:text=Defense%20articles%20and%20military%20equipment,vehicles%2C%20aircraft%2C%20and%20ships.) (Accessed on Feb 17, 2024)
 - Defense Logistics Agency's [Foreign Military Sales page](https://www.dla.mil/Disposition-Services/Offers/FMS/) (Accessed on Feb 20, 2024)
