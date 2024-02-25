@@ -18,7 +18,7 @@ This data analysis project aims to provide insights into excess defense article 
 
 ### Data Sources
 ---
-Transfer Data: The primary dataset used for this analysis is the "eda_data.csv" file, containing detailed information about each transfer request made by a U.S. partner nation between 2010 and 2020. [Original dataset](https://www.dsca.mil/programs/excess-defense-articles-eda)
+Transfer Data: The primary dataset contains detailed information about each transfer request made by a U.S. partner nation between 2010 and 2020. Download the [original dataset](https://www.dsca.mil/programs/excess-defense-articles-eda) or request access to all data used in this analysis. [Make a request](https://docs.google.com/spreadsheets/d/1L3oU8nTgK4r6ba8HcSyicVSi8TEqoQQ-AaNiphXEHbk/edit?usp=sharing)
 
 ### Tools
 ---
